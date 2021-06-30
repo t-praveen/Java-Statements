@@ -1,3 +1,5 @@
+//Example of for-each loop statement//
+
 package statements;
 
 public class ForEachLoopStatementExample2 {
