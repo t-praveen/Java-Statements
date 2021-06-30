@@ -1,3 +1,5 @@
+//Infinite for-loop statement//
+
 package statements;
 
 public class InfiniteForLoopStatement {
