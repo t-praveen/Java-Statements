@@ -1,3 +1,5 @@
+//Example of Break statement//
+
 package statements;
 import java.util.Scanner;
 
