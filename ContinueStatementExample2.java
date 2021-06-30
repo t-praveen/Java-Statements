@@ -1,3 +1,5 @@
+//Example of Continue statement//
+
 package statements;
 import java.util.Scanner;
 
