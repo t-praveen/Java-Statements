@@ -1,3 +1,5 @@
+//1Sum of positive numbers using while loop//
+
 package statements;
 import java.util.Scanner;
 
